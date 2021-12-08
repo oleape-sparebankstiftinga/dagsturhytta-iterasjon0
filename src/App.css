@@ -9,3 +9,13 @@
 .content {
     margin-top: 15px;
 }
+
+#map { 
+    height: 50vh; 
+    width: 100%;
+}
+
+.leaflet-container {
+    height: 50vh;
+    width: 100vh;
+}
